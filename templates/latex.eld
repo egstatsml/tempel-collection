@@ -28,3 +28,5 @@ latex-mode
 (trivlist "\\begin{trivlist}\n" r> n> "\\end{trivlist}")
 (verbatim "\\begin{verbatim}\n" r> n> "\\end{verbatim}")
 (verbatimm "\\begin{verbatim*}\n" r> n> "\\end{verbatim*}")
+;; added by me (ethan)
+(par "%\n%\n\\par\n%\n%\n")
